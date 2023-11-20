@@ -1,1 +1,1 @@
-# astr_19-final-project
+# astr_19-group-project
